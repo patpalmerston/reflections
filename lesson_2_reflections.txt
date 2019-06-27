@@ -1,0 +1,4 @@
+updating reflections
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+the working directory is was is current and active on your computer. The staging area is for new adjustments that need to be add to the repository. This offers degrees of separation so it is more difficult to destroy progress.
