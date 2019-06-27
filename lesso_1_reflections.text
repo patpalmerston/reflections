@@ -19,3 +19,5 @@ use git log --oneline to get a list of commits and the description and use diff 
 6.How might using version control make you more confident to make changes that could break something?
 
 because I know i can track down the commit pre bug and search out the commit that broke the project and then make adjustments
+
+making another reflection
