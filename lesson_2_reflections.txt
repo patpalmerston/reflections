@@ -5,3 +5,15 @@ the working directory is was is current and active on your computer. The staging
 
 2.  How can you use the staging area to make sure you have one commit per logical change?
 you can add or remove from the staging area to choose what you commit and give that commit a specific meaning
+
+3.What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+creating a new branch is helpful when you want to add new features to a master branch
+
+4.How do the diagrams help you visualize the branch structure?
+
+Diagrams make it easier to comprehend where the branches were made and how they interact with the master branch
+
+5.What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches allows the developer to finish an idea and close that branch so that new features and branches can be created at the project moves on.
