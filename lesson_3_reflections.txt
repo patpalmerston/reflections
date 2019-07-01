@@ -14,3 +14,7 @@ Forks are a github specific tool to give you access to open source projects and 
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Having a copy of the last known state of the remote stored locally would allow you to work on it offline and also compare to what changes were made to the project when you got back on line.
+5. 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+you would have to zoom and send files via email or cloud platform. Then copy those files and compare them manually. I dont see anyway for collaboration to be easier with out git or github. They are essential. 
